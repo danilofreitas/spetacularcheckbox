@@ -1,6 +1,6 @@
 {
     "name": "SpectacularCheckbox",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "author": "Danilo Freitas",
     "dependencies": {
         "jquery": ">=1.9"

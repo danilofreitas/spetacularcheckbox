@@ -2,7 +2,7 @@
     "name" : "SpectacularCheckbox",
     "title" : "Multiple options to selectbox",
     "author" : "Danilo Freitas",
-    "version" : "0.0.3",
+    "version" : "0.0.4",
     "devDependencies": {
         "grunt": ">=0.4.1",
         "grunt-contrib-cssmin" : "0.6.1",
