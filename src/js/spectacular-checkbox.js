@@ -39,13 +39,6 @@
                     base.closeSelect();
                 }
             });
-
-            $(document).click(function (e) {
-                    if (!$(this) != base.$elem) {
-                        base.closeSelect();
-                    }
-            });
-
         },
         closeSelect: function () {
             var base = this,
