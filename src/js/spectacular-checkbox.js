@@ -143,9 +143,9 @@
                 return false;
             }
             $(this).data("owl-init", true);
-            var carousel = Object.create(SpectacularCheckbox);
-            carousel.init(options, this);
-            $.data(this, "spectacularCheckbox", carousel);
+            var spectacular = Object.create(SpectacularCheckbox);
+            spectacular.init(options, this);
+            $.data(this, "spectacularCheckbox", spectacular);
         });
     };
 

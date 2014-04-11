@@ -2,4 +2,45 @@
 	display: none;
 	position: absolute;
 	z-index: 99;
+	background-color: white;
+	border: 1px solid #CCC;
+	padding: 10px;
+}
+
+.spetacular-checkbox .checkboxes{
+	max-height: 167px;
+	overflow-y: scroll;
+}
+
+.spetacular-checkbox > .wrap-spetacular-checkbox .typehead-field{
+	width: 100%;
+	line-height: 30px;
+	border:1px solid #000;
+	margin-bottom: 5px;
+}
+
+.spetacular-checkbox > .wrap-spetacular-checkbox .checkbox{
+	margin:5px !important;
+}
+
+.spetacular-checkbox > .wrap-spetacular-checkbox .spetacular-checkbox-action-button{
+	width:100% !important;
+	border-radius: 4px;
+	margin-top: 10px;
+}
+
+.spetacular-checkbox{
+	width:100% !important;
+}
+
+	
+.spetacular-checkbox .spetacular-checkbox-toggle-button{
+	padding: 6px 12px;
+	white-space: nowrap;
+	line-height: 1.8;
+	width:100%;
+}
+
+.spetacular-checkbox .spetacular-checkbox-toggle-button .caret{
+	margin:12px 0;
 }

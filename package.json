@@ -1,8 +1,8 @@
 {
     "name" : "SpectacularCheckbox",
     "title" : "Multiple options to selectbox",
-    "author" : "Danilo Freitas",
-    "version" : "0.0.5",
+    "author" : "Danilo Freitas & Raphael Luchini",
+    "version" : "0.0.6",
     "devDependencies": {
         "grunt": ">=0.4.1",
         "grunt-contrib-cssmin" : "0.6.1",
